@@ -2,15 +2,15 @@
 	"ads" : [
 		{
 			"id": "0",
-			"ad_link": "https://github.com/salarazad/adsJson-/blob/main/ad_drink_water1.png",
+			"ad_link": "https://github.com/salarazad/adsJson-/blob/main/ad_drink_water1.png"
 		},
 		{
 			"id": "1",
-			"ad_link": "https://github.com/salarazad/adsJson-/blob/main/ad_drink_water2.png",
+			"ad_link": "https://github.com/salarazad/adsJson-/blob/main/ad_drink_water2.png"
 		},
 		{
 			"id": "2",
-			"ad_link": "https://github.com/salarazad/adsJson-/blob/main/ad_drink_water3.png",
+			"ad_link": "https://github.com/salarazad/adsJson-/blob/main/ad_drink_water3.png"
 		}	
 	]
 }
